@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\bai4810\bai4810\bin\Debug\net10.0-windows\bai4810.exe
+C:\Users\PC\source\repos\bai4810\bai4810\bin\Debug\net10.0-windows\bai4810.deps.json
+C:\Users\PC\source\repos\bai4810\bai4810\bin\Debug\net10.0-windows\bai4810.runtimeconfig.json
+C:\Users\PC\source\repos\bai4810\bai4810\bin\Debug\net10.0-windows\bai4810.dll
+C:\Users\PC\source\repos\bai4810\bai4810\bin\Debug\net10.0-windows\bai4810.pdb
+C:\Users\PC\source\repos\bai4810\bai4810\obj\Debug\net10.0-windows\bai4810.Form1.resources
+C:\Users\PC\source\repos\bai4810\bai4810\obj\Debug\net10.0-windows\bai4810.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\bai4810\bai4810\obj\Debug\net10.0-windows\bai4810.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\bai4810\bai4810\obj\Debug\net10.0-windows\bai4810.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\bai4810\bai4810\obj\Debug\net10.0-windows\bai4810.AssemblyInfo.cs
+C:\Users\PC\source\repos\bai4810\bai4810\obj\Debug\net10.0-windows\bai4810.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\bai4810\bai4810\obj\Debug\net10.0-windows\bai4810.dll
+C:\Users\PC\source\repos\bai4810\bai4810\obj\Debug\net10.0-windows\refint\bai4810.dll
+C:\Users\PC\source\repos\bai4810\bai4810\obj\Debug\net10.0-windows\bai4810.pdb
+C:\Users\PC\source\repos\bai4810\bai4810\obj\Debug\net10.0-windows\bai4810.genruntimeconfig.cache
+C:\Users\PC\source\repos\bai4810\bai4810\obj\Debug\net10.0-windows\ref\bai4810.dll
+C:\Users\PC\source\repos\bai4810\bai4810\obj\Debug\net10.0-windows\bai4810.csproj.Up2Date
